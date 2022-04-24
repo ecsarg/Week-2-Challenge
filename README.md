@@ -1,10 +1,14 @@
 # Development Portfolio
 
 ## Purpose
-A portfolio to display my work for future employers
+A website for future employers to view my work, resume, and learn about me. 
 
-### Website
+## Built With
+* HTML
+* CSS
 
+## Website
+https://github.com/ecsarg/.git
 
-#### Contribution
-Made with &heart; by Ellie Sargent
+## Contribution
+Made with ❤️ by Ellie Sargent
